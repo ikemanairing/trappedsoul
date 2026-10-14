@@ -1,0 +1,314 @@
+{
+  "ok": true,
+  "version": "v3",
+  "independent_photo_boards": 32,
+  "prompts": 32,
+  "omni_assets": 4,
+  "attachment_copies": 64,
+  "duration": 194,
+  "reveal_at": 170,
+  "source_dialogue_verified": true,
+  "thanks_only_in": "C031",
+  "male_exit_clip": "C032",
+  "image_sizes": {
+    "SB01": [
+      1672,
+      941
+    ],
+    "SB02": [
+      1672,
+      941
+    ],
+    "SB03": [
+      1672,
+      941
+    ],
+    "SB04": [
+      1672,
+      941
+    ],
+    "SB05": [
+      1672,
+      941
+    ],
+    "SB06": [
+      1672,
+      941
+    ],
+    "SB07": [
+      1672,
+      941
+    ],
+    "SB08": [
+      1672,
+      941
+    ],
+    "SB09": [
+      1672,
+      941
+    ],
+    "SB10": [
+      1672,
+      941
+    ],
+    "SB11": [
+      1672,
+      941
+    ],
+    "SB12": [
+      1672,
+      941
+    ],
+    "SB13": [
+      1672,
+      941
+    ],
+    "SB14": [
+      1672,
+      941
+    ],
+    "SB15": [
+      1672,
+      941
+    ],
+    "SB16": [
+      1672,
+      941
+    ],
+    "SB17": [
+      1672,
+      941
+    ],
+    "SB18": [
+      1672,
+      941
+    ],
+    "SB19": [
+      1672,
+      941
+    ],
+    "SB20": [
+      1672,
+      941
+    ],
+    "SB21": [
+      1672,
+      941
+    ],
+    "SB22": [
+      1672,
+      941
+    ],
+    "SB23": [
+      1672,
+      941
+    ],
+    "SB24": [
+      1672,
+      941
+    ],
+    "SB25": [
+      1672,
+      941
+    ],
+    "SB26": [
+      1672,
+      941
+    ],
+    "SB27": [
+      1672,
+      941
+    ],
+    "SB28": [
+      1672,
+      941
+    ],
+    "SB29": [
+      1672,
+      941
+    ],
+    "SB30": [
+      1672,
+      941
+    ],
+    "SB31": [
+      1672,
+      941
+    ],
+    "SB32": [
+      1672,
+      941
+    ]
+  },
+  "regenerated_or_added_boards": [
+    "SB04",
+    "SB25",
+    "SB27",
+    "SB32"
+  ],
+  "reused_boards_after_script_comparison": 28,
+  "generated_videos": 0,
+  "changes": [
+    {
+      "clip_id": "C001",
+      "old_prompt_sha256": "286fec93ae1a8c6127c6ff7a354ad4d1ad320ff938dea21ca407044b9f5af729",
+      "new_prompt_sha256": "762b395423bf9592ecab722006274acafcf27117f42640654cf583cef6c58403"
+    },
+    {
+      "clip_id": "C002",
+      "old_prompt_sha256": "1cea43f672c9d6e79d5406502e2b891e5b7e334aa6d18774a19e91d70a309a1c",
+      "new_prompt_sha256": "927e9be024290165558a98d24b8d65fc5428c13d6c36dcfbf4fc2b23fcda44bf"
+    },
+    {
+      "clip_id": "C003",
+      "old_prompt_sha256": "5f0c277f3f9ae8aa5456059a176bdefe4d60b0c70fcf469d3e29d7a55b88a008",
+      "new_prompt_sha256": "825725c3723d0065034ad38b41b21bcaaee7e607b6082d25ba58fb3a567745d7"
+    },
+    {
+      "clip_id": "C004",
+      "old_prompt_sha256": "6473ccb0a4c82dd35fddef3c15852000617aa6170373b0c57910de564a6b1247",
+      "new_prompt_sha256": "410d424dc1df9507485178d7ade7ed096463372f81450b2e4e4b14d22174ad7f"
+    },
+    {
+      "clip_id": "C005",
+      "old_prompt_sha256": "4ace64ea432e45aa0802e6d63ea3ee01b1e47117e28b731cefd8b2ac98dba0f7",
+      "new_prompt_sha256": "7a4946782a93305210f03890f919825c63df90fa7f232d3a85d7298ba68b1878"
+    },
+    {
+      "clip_id": "C006",
+      "old_prompt_sha256": "119945dd8cf0deccd5c251fea537a30573fae95ba10a5765b2877792dee9710e",
+      "new_prompt_sha256": "fb341c07514e1d0209b177294897da192d241d075aa4922a4bd5803b0efe020b"
+    },
+    {
+      "clip_id": "C007",
+      "old_prompt_sha256": "33348c468f7b37ed63be44459573b4f02747ec3f62aae001ea1c1fd8ee4573cb",
+      "new_prompt_sha256": "9935dd5fb3b3f961280a71b445d3e0eb45a9ccaaa579a9bbf19d140f57a95d25"
+    },
+    {
+      "clip_id": "C008",
+      "old_prompt_sha256": "1272660e7bb48c0dcc54d6adb829a04283c0ebeb223b4b1891c16100c82614fa",
+      "new_prompt_sha256": "d717d22d0a68dca0b48a073a7dc50973de9bd22e659380ac3106b0ef875ebd8f"
+    },
+    {
+      "clip_id": "C009",
+      "old_prompt_sha256": "dcc047e47beaaba656b47e1693fbbff3f60dc76d76766ce6c382dd5c521dac54",
+      "new_prompt_sha256": "f6864184a511628b7a1c09041c7d931dae4a521163e9f80dac6ef60dea552026"
+    },
+    {
+      "clip_id": "C010",
+      "old_prompt_sha256": "9270df4eda429552f076c792c434bd649b7bf6d09857d8e02bac6f496d95e882",
+      "new_prompt_sha256": "2c0288ce4abd2ce2a195f614e9627e8669f11917a3412a65c3a2f690841a1ffe"
+    },
+    {
+      "clip_id": "C011",
+      "old_prompt_sha256": "f8d32e9179d03a8fcb9d4287593ef37bf7b2cb7822d0c7ee79a8dddb99da44d9",
+      "new_prompt_sha256": "fab020bfd5f0eecdebdcf6ad65cf1ab55412bb06c7aa3ff2c2d7238be1669e93"
+    },
+    {
+      "clip_id": "C012",
+      "old_prompt_sha256": "2dae99bbb01cdb15731cdb528c95696afe901dd63b3112b6207318ddbee38753",
+      "new_prompt_sha256": "9fedf5f5ba77fa3e5cad6751b430035bce22ce9138a38989571dbda8aa55d565"
+    },
+    {
+      "clip_id": "C013",
+      "old_prompt_sha256": "751ec28429a24ca9895ae16b4906f7ed68ed1d88a3809c418cdc50f454633d39",
+      "new_prompt_sha256": "a1d9cb48ffb4fc33f213c0bf05979d1eb6a871553657ef14e631ed79222fc9cb"
+    },
+    {
+      "clip_id": "C014",
+      "old_prompt_sha256": "98c2a4a744770172d171d6e3a5416dd8fc60eb3cea85f599783608458ec030e3",
+      "new_prompt_sha256": "a9921a112bca6a1a01e601ada169f062e127ad9ba585ed678981e9d79fa49ded"
+    },
+    {
+      "clip_id": "C015",
+      "old_prompt_sha256": "d09c4c8f78223981ad032263efc4941976d9ace21f8a3986a38f695743ffe7ad",
+      "new_prompt_sha256": "3e3778587036720d09f3c225e6fef22479aeaa02281d88e00cbd36d0c116df4d"
+    },
+    {
+      "clip_id": "C016",
+      "old_prompt_sha256": "cf355bb86453760497aaa1bc23c2475a6fd438d3b2f3dd565e8a1e81359cd9ce",
+      "new_prompt_sha256": "e207afa4d358409166ffa72683464c9531b6e05fe77189b4847323af4c023e1e"
+    },
+    {
+      "clip_id": "C017",
+      "old_prompt_sha256": "7e85cc25fc5a6806c7ff1ef9b5184e7fa178024c676bd2d08b24f1cdfef38af1",
+      "new_prompt_sha256": "8b99f9696b651c4c958fc4f59aefd2df1df568bbba4fc2246a518711c3a5020d"
+    },
+    {
+      "clip_id": "C018",
+      "old_prompt_sha256": "02520ffa6b8177bad82ce4aa9ed12dd3cdaac27bd1ce9968491a7516cfcf14f9",
+      "new_prompt_sha256": "1a82c969a5e61310c62095fbe08dc004ba901448ebff6d4f7063eb448366a22a"
+    },
+    {
+      "clip_id": "C019",
+      "old_prompt_sha256": "6ca3115a184e97f20bc2abf5fb7292c9d0a339d1d888620fc52588ddd630a3ae",
+      "new_prompt_sha256": "d022eb3208eed6af385f048c5270fc151673083359db445e1f248184fa8de503"
+    },
+    {
+      "clip_id": "C020",
+      "old_prompt_sha256": "b48256d610872b6bdc211c7d9dd9b1a71eb92cf2aae0b44bf96d43b1fd126186",
+      "new_prompt_sha256": "94cec9deae41d7ca7a99b950d49b4de91ae61f4d60530bd2048faee615849cd5"
+    },
+    {
+      "clip_id": "C021",
+      "old_prompt_sha256": "85b703ee206626b04f08aa014b480836e2f42055ac7fd0ac0c094b6dbf82d27d",
+      "new_prompt_sha256": "9083382f4b8758ef8b475831870ee59fd42a62a91432a2f7e5905925fb047c65"
+    },
+    {
+      "clip_id": "C022",
+      "old_prompt_sha256": "dabb750b08a299b59541cae61e2e7524edf50a2e64f22d7f020ac75f118d4e56",
+      "new_prompt_sha256": "7ff7abf2553568c75e6f8b98d1e0557e49a24e645970dea5b9f9205b172dfe43"
+    },
+    {
+      "clip_id": "C023",
+      "old_prompt_sha256": "aca1d157c882b7c5422d0dd75dcaf56a10da006e6cf2d4e8ea43f0cd34d72d8a",
+      "new_prompt_sha256": "f7f8ea1faf0102a7c284e7718f6a9ae58f32117fd912451594045853f852f0af"
+    },
+    {
+      "clip_id": "C024",
+      "old_prompt_sha256": "8f898b1e7eb1d49a5c2d91483531fc2dfc80a4f659248e88dbb38ccb3827d029",
+      "new_prompt_sha256": "d1f8383fc3e6df7d9ec89ae13b2c56e9db634a342674e0d180e8d1315c9d00ad"
+    },
+    {
+      "clip_id": "C025",
+      "old_prompt_sha256": "f31e142d48b627da674ca48165b4cde436a9613622651e40d5bc56ba8c32f446",
+      "new_prompt_sha256": "d7fc94356a8e87432e8cb627dd03f16782d447e5db7c73425dd6eaa1bd605dba"
+    },
+    {
+      "clip_id": "C026",
+      "old_prompt_sha256": "3b67505e9dc3bb11b0391ec52670882502c9baba46b0cbb8c9e588465a7d36cb",
+      "new_prompt_sha256": "7c91ab4eb79a2eac03b2f8dfebf63686ca1af23676d03f345bddf4d2c9151007"
+    },
+    {
+      "clip_id": "C027",
+      "old_prompt_sha256": "a5c9fc712cb86eaf4469cc3f9d42edb1efffdafb468717090eac681cccba01bc",
+      "new_prompt_sha256": "2c01419c50f921aab4d64841559941cf24ed8195ab15ae5bcde81651fd4a3ce3"
+    },
+    {
+      "clip_id": "C028",
+      "old_prompt_sha256": "479dc07789b4fad9349d1bcd8d15e8cc273b5d76929c36b7cfb1c7312f1b9847",
+      "new_prompt_sha256": "0f276ae5d913e9ad7e0391abfd58af37615121ad2f037cdb965b0ff1ec99f890"
+    },
+    {
+      "clip_id": "C029",
+      "old_prompt_sha256": "e9ef8e13fe6f45bf7271b5a13ef05b09d82eb10095246201e8f77308cd7f0cc2",
+      "new_prompt_sha256": "f711062a9acaa0d1b4df10d441217c3054742464e21e616d86aa700e754ead73"
+    },
+    {
+      "clip_id": "C030",
+      "old_prompt_sha256": "7145ab0149c356eed2436f1b3b82fc391b7b1e042eb4468ad99ca09e0a81697b",
+      "new_prompt_sha256": "eeb23ad7ee2bce261836b0fbea3297c392ce22795479bdd06a5c88b96dbb8176"
+    },
+    {
+      "clip_id": "C031",
+      "old_prompt_sha256": "ec4742d74b34fc0a307d9df85d99b0ec4811fe606c37b8152348392a3832eaff",
+      "new_prompt_sha256": "27bf1f865a67df83bdd0d36093de227da6ef93cb1f3e9a04651005d04d1cf6ac"
+    },
+    {
+      "clip_id": "C032",
+      "old_prompt_sha256": null,
+      "new_prompt_sha256": "ad8edc5e06796e7e9b92edd09070ef53cea9d0568a5874f81be84e6da9dcbab8"
+    }
+  ],
+  "limitations": "정지 이미지와 문서·태그·해시를 확인함. 실제 발화·립싱크·교체·퇴장 동작은 영상 생성 후 검수."
+}

@@ -1,0 +1,580 @@
+[
+  {
+    "id": "SB01",
+    "clip_id": "C001",
+    "time": 2.15,
+    "project_time": 2.15,
+    "title": "누르지 말랬잖아",
+    "path": "storyboard/SB01_C001.png",
+    "description": "The person lunges toward the webcam with their right open palm reaching toward the lens on screen left, face centered and mouth wide open mid-shout, brows sharply drawn together and eyes opened wide. Chest-up view, the hand must not cover their face.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: The person lunges toward the webcam with their right open palm reaching toward the lens on screen left, face centered and mouth wide open mid-shout, brows sharply drawn together and eyes opened wide. Chest-up view, the hand must not cover their face. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB02",
+    "clip_id": "C002",
+    "time": 2.2,
+    "project_time": 8.2,
+    "title": "아직 있네",
+    "path": "storyboard/SB02_C002.png",
+    "description": "The same person leaning forward, right palm now descending toward the desk, lips parted after a breath, eyes locked on lens, inner eyebrows lifted. Show upper torso and desk edge.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: The same person leaning forward, right palm now descending toward the desk, lips parted after a breath, eyes locked on lens, inner eyebrows lifted. Show upper torso and desk edge. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB03",
+    "clip_id": "C003",
+    "time": 2.2,
+    "project_time": 13.2,
+    "title": "누가 눌렀나",
+    "path": "storyboard/SB03_C003.png",
+    "description": "The seated person has just raised their eyes from below the camera back to the lens, chin slightly forward, mouth forming a cautious question, hands resting on the worn desk.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: The seated person has just raised their eyes from below the camera back to the lens, chin slightly forward, mouth forming a cautious question, hands resting on the worn desk. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB04",
+    "clip_id": "C004",
+    "time": 2.2,
+    "project_time": 20.2,
+    "title": "수명의 규칙",
+    "path": "storyboard/SB04_C004.png",
+    "description": "Same original male seated in trapped concrete room, LEFT fingers tightly grasp a handful of his own charcoal shirt at upper chest on screen right, gathered fabric visible. Right hand stays on desk. Near tears, raised inner brows, lips parted during speech. No smile.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png",
+      "production/history/revision_v2/storyboard/SB04_C004.png"
+    ],
+    "prompt": "Edit this single landscape photographic storyboard still. Preserve exactly the same man, same face, same charcoal long sleeve shirt, same seated position, same concrete room, door on right, damp mark on left, desk, lens and cold monitor lighting. Change his LEFT hand on his upper chest: instead of an open flat palm, his left fingers curl and tightly clutch a small handful of his own shirt fabric at the upper chest, with visible gathered cloth. The hand is on the screen-right half of his chest. His other right hand stays on the desk. He looks frightened and near tears, inner eyebrows raised, mouth slightly parted mid-speech, lower lip tense, no smile. Natural hand anatomy and realistic cloth grasp. No wound or new prop, no text. Keep the rest unchanged.",
+    "generation_references": [
+      "production/history/revision_v2/storyboard/SB04_C004.png"
+    ]
+  },
+  {
+    "id": "SB05",
+    "clip_id": "C005",
+    "time": 2.2,
+    "project_time": 26.2,
+    "title": "시간이 사라진다",
+    "path": "storyboard/SB05_C005.png",
+    "description": "Both hands on the desk, left fingers spread and faintly tense; person glances down at their hand with compressed lower eyelids, mouth slightly open in speech.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Both hands on the desk, left fingers spread and faintly tense; person glances down at their hand with compressed lower eyelids, mouth slightly open in speech. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB06",
+    "clip_id": "C006",
+    "time": 2.2,
+    "project_time": 33.2,
+    "title": "멀쩡해 보이잖아",
+    "path": "storyboard/SB06_C006.png",
+    "description": "Tight frontal detail of the same person's two hands and charcoal cuffs on worn dark desk, left hand relaxed with palm facing upward, fingers slightly spread, right hand resting separately on the desk. Bottom of their chin may be at top edge. Anatomically natural hands.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Generate one 16:9 photographic detail INSERT SHOT of only TWO HANDS and charcoal sleeve cuffs of the person in image 1, resting on the worn dark desk surface from image 2. Frame so tightly that the person's head and face, chair and room door are entirely outside the frame. View from across the desk, a frontal slightly elevated close view, not a side angle. Their anatomical LEFT hand on IMAGE RIGHT is open, palm turned upward, fingers gently spread. Their anatomical RIGHT hand on IMAGE LEFT rests palm-down separately on the desk. Natural relaxed intact hands, only two hands. Cold muted monitor lighting, photographic real skin and worn desk texture. This is a simple neutral hand gesture. No text or collage.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB07",
+    "clip_id": "C007",
+    "time": 2,
+    "project_time": 39,
+    "title": "문",
+    "path": "storyboard/SB07_C007.png",
+    "description": "Person turning head toward the closed door on screen right, body still facing webcam, lips closed, near cheek in profile. Preserve door and damp stain placement.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person turning head toward the closed door on screen right, body still facing webcam, lips closed, near cheek in profile. Preserve door and damp stain placement. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB08",
+    "clip_id": "C008",
+    "time": 2.2,
+    "project_time": 45.2,
+    "title": "끝나는 데까지",
+    "path": "storyboard/SB08_C008.png",
+    "description": "The person now faces camera again, both elbows planted on desk, eyes wide and mouth mid-plea, the closed door visible behind the right shoulder.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: The person now faces camera again, both elbows planted on desk, eyes wide and mouth mid-plea, the closed door visible behind the right shoulder. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB09",
+    "clip_id": "C009",
+    "time": 2.2,
+    "project_time": 51.2,
+    "title": "손을 뻗는 사람",
+    "path": "storyboard/SB09_C009.png",
+    "description": "Right index finger of the person extends toward a point just below the camera; frightened face remains visible above it. Webcam perspective, hand closer to lens but physically natural.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Right index finger of the person extends toward a point just below the camera; frightened face remains visible above it. Webcam perspective, hand closer to lens but physically natural. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB10",
+    "clip_id": "C010",
+    "time": 2.2,
+    "project_time": 57.2,
+    "title": "보이지 않는 벽",
+    "path": "storyboard/SB10_C010.png",
+    "description": "Person's right palm pressed against an invisible glass plane very near the webcam at screen left, fingertips flattened naturally. Their face is close beside it, brows pulled upward, mouth speaking. No cracks or glowing magic.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person's right palm pressed against an invisible glass plane very near the webcam at screen left, fingertips flattened naturally. Their face is close beside it, brows pulled upward, mouth speaking. No cracks or glowing magic. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB11",
+    "clip_id": "C011",
+    "time": 2.2,
+    "project_time": 64.2,
+    "title": "멈추게 하고 싶지만",
+    "path": "storyboard/SB11_C011.png",
+    "description": "Close face of person with their right hand retreating beside their cheek, tight lower eyelids, inner brows pinched, mouth mid-sentence, cold monitor light and empty concrete room.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Close face of person with their right hand retreating beside their cheek, tight lower eyelids, inner brows pinched, mouth mid-sentence, cold monitor light and empty concrete room. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB12",
+    "clip_id": "C012",
+    "time": 2.2,
+    "project_time": 70.2,
+    "title": "잠깐",
+    "path": "storyboard/SB12_C012.png",
+    "description": "Person suddenly half-raises right hand to stop someone leaving, palm tilted toward lens and fingers loosely bent, eyes lifted sharply, mouth just saying wait.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person suddenly half-raises right hand to stop someone leaving, palm tilted toward lens and fingers loosely bent, eyes lifted sharply, mouth just saying wait. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB13",
+    "clip_id": "C013",
+    "time": 2.2,
+    "project_time": 76.2,
+    "title": "진짜로 들리니",
+    "path": "storyboard/SB13_C013.png",
+    "description": "Person tilts head subtly toward the webcam, eyes searching the lens, lips lightly closed after asking a question, shoulders visible and hands below frame.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person tilts head subtly toward the webcam, eyes searching the lens, lips lightly closed after asking a question, shoulders visible and hands below frame. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB14",
+    "clip_id": "C014",
+    "time": 2.2,
+    "project_time": 82.2,
+    "title": "들린다는 안도",
+    "path": "storyboard/SB14_C014.png",
+    "description": "Person exhales with shoulders dropping, eyelids half lowered and lips slightly parted, no smile, gaze drifting just below lens.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person exhales with shoulders dropping, eyelids half lowered and lips slightly parted, no smile, gaze drifting just below lens. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB15",
+    "clip_id": "C015",
+    "time": 2.2,
+    "project_time": 88.2,
+    "title": "기억하지 못하는 앞부분",
+    "path": "storyboard/SB15_C015.png",
+    "description": "Left fingertips lightly pressing temple, the same person staring toward lens with brows furrowed and strained parted lips. Preserve hairstyle and charcoal sleeve.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Left fingertips lightly pressing temple, the same person staring toward lens with brows furrowed and strained parted lips. Preserve hairstyle and charcoal sleeve. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet. The raised hand is the person's ANATOMICAL LEFT hand, attached to the arm on IMAGE RIGHT. Their right hand stays down on IMAGE LEFT.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB16",
+    "clip_id": "C016",
+    "time": 2.2,
+    "project_time": 94.2,
+    "title": "사라지는 기억",
+    "path": "storyboard/SB16_C016.png",
+    "description": "Person looks down at hands clasped together on desk, lips pressed after speech, inner eyebrows raised and eyelids tense. No smile.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person looks down at hands clasped together on desk, lips pressed after speech, inner eyebrows raised and eyelids tense. No smile. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB17",
+    "clip_id": "C017",
+    "time": 2,
+    "project_time": 101,
+    "title": "떨리는 손",
+    "path": "storyboard/SB17_C017.png",
+    "description": "Frontal close detail of right hand gently enclosing the left fingers on the desk, right thumb pressing left knuckles, charcoal cuffs. The gesture restrains a tremor rather than an injury.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Generate one wide 16:9 photographic storyboard DETAIL INSERT. Reference image 1 supplies charcoal sleeves and the same person's hands; reference image 2 supplies the dark heavily worn desk surface. Frame ONLY hands, cuffs and lower torso. NO HEAD OR FACE IN FRAME, no room door. Frontal close view from across desk. Their anatomical RIGHT hand, from IMAGE LEFT, gently cups and holds the fingers of their anatomical LEFT hand, from IMAGE RIGHT, resting together on the desk. Right thumb rests on the left knuckles. A simple self-soothing gesture, no tension, no injury, normal hands and five fingers per hand. Cold monitor lighting, true skin texture, muted low light. No text, no collage.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB18",
+    "clip_id": "C018",
+    "time": 2.2,
+    "project_time": 107.2,
+    "title": "자리를 지키는 사람",
+    "path": "storyboard/SB18_C018.png",
+    "description": "Person leans back small in the single black armless chair, shoulders tucked inward, watching webcam with mouth slightly open while speaking; show more of room and worn desk.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person leans back small in the single black armless chair, shoulders tucked inward, watching webcam with mouth slightly open while speaking; show more of room and worn desk. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB19",
+    "clip_id": "C019",
+    "time": 2.2,
+    "project_time": 114.2,
+    "title": "부탁의 모순",
+    "path": "storyboard/SB19_C019.png",
+    "description": "Person leans forward again with right hand on near edge of desk, raised inner eyebrows, lower lip drawn inward between words, direct pleading eye contact.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person leans forward again with right hand on near edge of desk, raised inner eyebrows, lower lip drawn inward between words, direct pleading eye contact. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB20",
+    "clip_id": "C020",
+    "time": 2.2,
+    "project_time": 121.2,
+    "title": "혼자 남는다는 핑계",
+    "path": "storyboard/SB20_C020.png",
+    "description": "Person looks directly into lens after lifting gaze from floor, lips barely parted in whisper, lower eyelids stretched taut, isolated against dark concrete wall.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person looks directly into lens after lifting gaze from floor, lips barely parted in whisper, lower eyelids stretched taut, isolated against dark concrete wall. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB21",
+    "clip_id": "C021",
+    "time": 2.2,
+    "project_time": 127.2,
+    "title": "듣고 있지",
+    "path": "storyboard/SB21_C021.png",
+    "description": "Both hands slide together toward center of desk, person's gaze momentarily aimed just below lens, mouth speaking softly, face still unsmiling.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Both hands slide together toward center of desk, person's gaze momentarily aimed just below lens, mouth speaking softly, face still unsmiling. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB22",
+    "clip_id": "C022",
+    "time": 2.2,
+    "project_time": 133.2,
+    "title": "다시 나가라는 말",
+    "path": "storyboard/SB22_C022.png",
+    "description": "Person makes a small sideways refusal gesture with right hand above desk, brows tightened again, open mouth mid-correction; body remains seated.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person makes a small sideways refusal gesture with right hand above desk, brows tightened again, open mouth mid-correction; body remains seated. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB23",
+    "clip_id": "C023",
+    "time": 2.2,
+    "project_time": 139.2,
+    "title": "눈을 피하지 못하는 사람",
+    "path": "storyboard/SB23_C023.png",
+    "description": "Person leans close to webcam with chin lowered and eyes looking upward directly at lens, wet lower eyelids and tense lips, face fills more of frame.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person leans close to webcam with chin lowered and eyes looking upward directly at lens, wet lower eyelids and tense lips, face fills more of frame. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB24",
+    "clip_id": "C024",
+    "time": 2.2,
+    "project_time": 146.2,
+    "title": "처음엔 영상인 줄",
+    "path": "storyboard/SB24_C024.png",
+    "description": "Same person wiping once below left eye with back of left hand, head now level, restrained tears and tense mouth; no smile and no injury.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Same person wiping once below left eye with back of left hand, head now level, restrained tears and tense mouth; no smile and no injury. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet. The wiping hand is anatomically LEFT, attached to the arm and shoulder on IMAGE RIGHT. It touches below the eye on IMAGE RIGHT, not the other side. Show BACK of this hand toward the viewer while wiping.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB25",
+    "clip_id": "C025",
+    "time": 2.6,
+    "project_time": 153.6,
+    "title": "조금만 더",
+    "path": "storyboard/SB25_C025.png",
+    "description": "Same original male with both hands loosely interlaced at desk center, fingers clearly woven together, looking up at webcam after a brief glance down. Lips slightly parted, fear fading but still no smile.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png",
+      "production/history/revision_v2/storyboard/SB25_C025.png"
+    ],
+    "prompt": "Edit this single landscape photographic storyboard still. Preserve exactly the same man, face, hair, charcoal shirt, concrete room, right door, left damp mark, desk, framing and dim lighting. Change only his hands to loosely INTERLACED fingers resting together at the center of the desk, clearly showing fingers woven between the fingers of the other hand, relaxed rather than squeezed hard. He has just checked the playback area below the webcam and is now raising his gaze toward the lens. Lips lightly parted while softly speaking. His fear is fading but he is still entirely UNSMILING, no upward mouth corners. Do not change the room, camera or outfit. Realistic natural two hands, no extra digits, no text.",
+    "generation_references": [
+      "production/history/revision_v2/storyboard/SB25_C025.png"
+    ]
+  },
+  {
+    "id": "SB26",
+    "clip_id": "C026",
+    "time": 2.8,
+    "project_time": 160.8,
+    "title": "거기 있지",
+    "path": "storyboard/SB26_C026.png",
+    "description": "Person almost motionless, shoulders lowered, lips parted just after asking something, eyes fixed on lens; brow tension fading but no hint of a smile.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Person almost motionless, shoulders lowered, lips parted just after asking something, eyes fixed on lens; brow tension fading but no hint of a smile. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB27",
+    "clip_id": "C027",
+    "time": 2,
+    "project_time": 166,
+    "title": "연기가 멈추는 순간",
+    "path": "storyboard/SB27_C027.png",
+    "description": "Same original male fully still and blank-faced, unsmiling, two hands loosely interlaced together at desk center. Face muscles relaxed, eyes fixed on webcam, no speech.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png",
+      "production/history/revision_v2/storyboard/SB27_C027.png"
+    ],
+    "prompt": "Edit this photographic storyboard frame while preserving exactly the same man, face, hair, charcoal shirt, seated upright posture, concrete room, desk, door and webcam framing. Change ONLY his two hands: they are now loosely interlaced together at the center of the desk with fingers naturally woven together, fully at rest. Keep his expression completely blank, mouth closed, eyebrows and cheeks relaxed, no smile, calm direct webcam eye contact. This is the moment his frightened act suddenly stops, before the later smile. One person, natural two hands, no extra fingers, no text. Landscape 16:9.",
+    "generation_references": [
+      "production/history/revision_v2/storyboard/SB27_C027.png"
+    ]
+  },
+  {
+    "id": "SB28",
+    "clip_id": "C028",
+    "time": 7.8,
+    "project_time": 177.8,
+    "title": "거래의 진실",
+    "path": "storyboard/SB28_C028.png",
+    "description": "Exact same person now with a small deliberate closed-lip smile, both mouth corners raised and cheeks slightly lifted, calm eyes looking straight into webcam. A chilling ordinary smile, no monstrous transformation. Face prominent.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard still, not a collage. Reference image 1 defines the same single person, their exact face, short black hair, charcoal long-sleeve crewneck and dark trousers. Reference image 2 defines the trapped concrete room, one black armless chair behind worn dark desk, closed door on screen right and vertical damp stain on left. Only one person. Do not inherit the neutral portrait background or pose. Story moment: Exact same person now with a small deliberate closed-lip smile, both mouth corners raised and cheeks slightly lifted, calm eyes looking straight into webcam. A chilling ordinary smile, no monstrous transformation. Face prominent. Naturalistic inexpensive webcam footage, cold light from monitor at camera direction, deep dark corners but visible face and required action. Fixed frontal webcam axis. No extra person and no supernatural facial distortion. No labels or captions inside the scene. This is a completed scene image for the planned film, not an asset sheet.",
+    "generation_references": [
+      "assets/A01_person.png",
+      "assets/B01_trapped_room.png"
+    ]
+  },
+  {
+    "id": "SB29",
+    "clip_id": "C029",
+    "time": 2,
+    "project_time": 180,
+    "title": "여성 시청자의 웹캠",
+    "path": "storyboard/SB29_C029.png",
+    "description": "One adult female viewer with the exact shoulder-length dark hair and muted dusty blue long-sleeve top from the female reference, seated centered in the black mesh office chair. Natural neutral closed mouth, relaxed shoulders, gaze just below webcam at the unseen monitor. Medium upper-body webcam view, bed screen left and open white door with warm hallway screen right. No other person, no computer screen visible.",
+    "references": [
+      "assets/B02_viewer_room.png",
+      "assets/A02_female_viewer.png"
+    ],
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard frame for a psychological horror film. Image1 is the viewer bedroom and must dictate the exact camera position, lens, furniture, open white door on right with amber hallway, bed on left, plants and black mesh office chair centered. Image2 is the identity and clothing reference for the only person: the adult Korean woman with shoulder-length dark hair and muted dusty blue long-sleeve shirt. Place this woman naturally in that black mesh chair, centered, framed head and upper body. She is quietly watching the monitor just below webcam, neutral relaxed face, lips closed with no smile and no fear, shoulders relaxed, arms low outside bottom of frame. Camera is fixed on top of the unseen monitor, looking at her and her bedroom; no monitor, screen frame or UI visible. Keep the original bedroom perspective and furniture exactly. Cool dim monitor light on her face from camera, warm amber doorway, realistic low-light webcam grain. Face visible, modest ordinary everyday appearance. No other people, no horror transformation, no text, no collage. This is the normal three-second viewer beat BEFORE she becomes startled.",
+    "generation_references": [
+      "assets/B02_viewer_room.png",
+      "assets/A02_female_viewer.png"
+    ]
+  },
+  {
+    "id": "SB30",
+    "clip_id": "C030",
+    "time": 1.5,
+    "project_time": 183.5,
+    "title": "뒤늦게 깨닫는 여성",
+    "path": "storyboard/SB30_C030.png",
+    "description": "The exact same adult woman in the exact same bedroom and webcam framing, eyes suddenly wide, eyebrows raised, lips parted with a sharp startled gasp, shoulders lifted slightly, upper body recoiling against the same black mesh chair. One woman only; bed left and warm open doorway right stay identical.",
+    "references": [
+      "assets/B02_viewer_room.png",
+      "assets/A02_female_viewer.png",
+      "storyboard/SB29_C029.png"
+    ],
+    "prompt": "Edit this photographic storyboard image into the next moment in the same fixed webcam scene. Preserve the exact same adult woman identity, dusty blue long-sleeve shirt, hair, chair, bedroom composition, focal length, light and all furniture unchanged. Change ONLY her facial expression and body response: she suddenly sees something alarming on the monitor right under the lens. Her eyes are wide, eyebrows raised, mouth visibly parted in a short sharp startled gasp, shoulders lifted and upper body recoils slightly against the mesh chair. Clearly startled, not smiling and not speaking. Her gaze is still toward the monitor near camera. Natural realistic fear, not screaming caricature. Keep only one person, same central chair and same size in frame, no creature, no second person, no supernatural effects. Landscape 16:9, low-light webcam photographic realism, no captions.",
+    "generation_references": [
+      "storyboard/SB29_C029.png"
+    ]
+  },
+  {
+    "id": "SB31",
+    "clip_id": "C031",
+    "time": 0.95,
+    "project_time": 184.95,
+    "title": "자리를 차지한 남자",
+    "path": "storyboard/SB31_C031.png",
+    "description": "The original male protagonist with identical face, short tousled black hair and charcoal long-sleeve crewneck now occupies the female viewer's same black mesh chair in her ordinary bedroom. Medium upper-body view from the identical fixed webcam, direct eye contact, relaxed shoulders, unmistakable sly closed-lip grin with raised mouth corners. Only this man is present. Bed screen left and open white door with warm hallway screen right remain unchanged. No woman, no ghost overlay, no trapped concrete room.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B02_viewer_room.png",
+      "storyboard/SB29_C029.png"
+    ],
+    "prompt": "Edit the first reference scene into the final reveal of this psychological horror. Reference1 defines the EXACT bedroom, camera, lens, crop, chair position and lighting. COMPLETELY REMOVE the woman. Replace her in that same central black mesh office chair with ONLY the adult man from Reference2. Reference2 defines his exact identity, short messy black hair, facial structure and charcoal long sleeve crewneck. He is the original male protagonist now occupying the woman's place in HER ordinary bedroom. Same medium upper-body webcam view, natural seated body size similar to the woman, relaxed shoulders, arms low. His eyes look directly INTO the webcam lens and he gives an unmistakable sly grin: both mouth corners raised, one slightly higher, cheeks subtly lifted, calm confident gaze, lips closed. Chilling satisfaction, no monstrous distortion. Use cool monitor light on his face matching reference1. Preserve every background item precisely: bed screen left, open white door and amber hallway screen right, furniture and plants. No woman remains anywhere, no overlay, no morph halfway face, no extra person, no concrete trapped room, no text. One landscape 16:9 photographic storyboard frame.",
+    "generation_references": [
+      "storyboard/SB29_C029.png",
+      "assets/A01_person.png"
+    ]
+  },
+  {
+    "id": "SB32",
+    "clip_id": "C032",
+    "time": 4,
+    "project_time": 192,
+    "title": "자유롭게 나가는 남자",
+    "path": "storyboard/SB32_C032.png",
+    "description": "The original man in his charcoal long sleeve shirt and dark trousers seen from behind, crossing the open white doorway on screen right into the warm amber hallway. His natural walking stride is visible at the threshold. The black mesh office chair is now empty in the foreground center. Exact same bedroom, bed on screen left, identical fixed webcam view. One man only, moving away from the camera; no woman and no ghost.",
+    "references": [
+      "assets/A01_person.png",
+      "assets/B02_viewer_room.png",
+      "storyboard/SB31_C031.png"
+    ],
+    "prompt": "Create the next independent landscape 16:9 photorealistic storyboard frame in this scene. Image1 is the exact bedroom, fixed webcam camera position, lens, lighting and the man who has just said thank you. Image2 provides the SAME man's identity, short tousled black hair, charcoal long sleeve crewneck and dark trousers. Now he has stood up and walked away from the foreground chair. Show him naturally walking THROUGH THE OPEN WHITE DOOR ON SCREEN RIGHT into the warm amber hallway, seen from behind, with one leg crossing the threshold and the other taking a normal trailing step. His back and head and legs are visible at appropriate smaller scale deeper in the room. He is one normal human adult, not a silhouette effect or giant. The SAME black mesh office chair is now EMPTY at foreground center, same position and size; bed on left, door on right, all plants, dresser, wall art and furniture unchanged. Keep the same static webcam view, no zoom and no pan, no recentered cinematic camera, no extra people and no woman. Warm hallway light grazes his rear shoulder and head. Quiet mundane freedom after a horrifying exchange. No text, no caption, no computer screen visible.",
+    "generation_references": [
+      "storyboard/SB31_C031.png",
+      "assets/A01_person.png"
+    ]
+  }
+]

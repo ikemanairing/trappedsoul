@@ -1,0 +1,286 @@
+{
+  "SB01": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "한 명. 화면 왼쪽의 오른손과 절규하는 얼굴이 함께 보임.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB02": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "오른손이 책상으로 내려오며 같은 얼굴과 공간 유지.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB03": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "양손·차콜 의상·정면 시선 확인.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB04": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지 직접 확인",
+    "revision": "v3",
+    "review_status": "awaiting_user_review",
+    "note": "왼손으로 가슴팍 옷감을 움켜쥔 형태와 옷 주름, 오른손의 책상 접촉 확인.",
+    "limits": "정지 장면만 확인. 실제 발화·립싱크·퇴장 동작·6초 길이·마지막 빈 방은 영상 생성 후 검수."
+  },
+  "SB05": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "펴진 왼손을 내려다보는 자세, 두 손 수량 확인.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB06": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "얼굴 없는 손 인서트로 재생성. 화면 오른쪽 왼손바닥 위, 오른손은 아래로 놓임.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB07": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "고개가 오른쪽 문을 향함. 인물·문 수량과 방향 일치.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB08": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "양팔꿈치가 책상에 닿고 얼굴·양손 함께 보임.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB09": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "오른손 검지가 렌즈 아래를 향함. 얼굴을 가리지 않음.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB10": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "오른손 손바닥과 얼굴 함께 보임. 유리 접촉감은 계획이며 움직임은 미검수.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB11": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "오른손이 오른뺨 옆에서 내려오는 순간. 얼굴과 의상 일치.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB12": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "오른손 반쯤 들어 멈춤 몸짓. 같은 닫힌 문 유지.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB13": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "고개를 기울인 질문 후의 표정, 미소 없음.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB14": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "어깨가 내려간 날숨의 순간, 미소 없음.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB15": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "화면 오른쪽 왼손이 관자놀이에 닿음.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB16": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "책상 위 포갠 두 손과 아래로 향한 시선 확인.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB17": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "얼굴 없는 양손 인서트. 오른손이 왼손을 감싸는 관계 확인.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB18": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "의자에 뒤로 기대어 작아진 인물, 동일 공간 방향 유지.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB19": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "앞으로 다가온 인물과 책상 가장자리의 오른손 확인.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB20": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "렌즈를 바라보는 가까운 얼굴, 추가 인물 없음.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB21": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "두 손이 책상 중앙에 모이고 눈이 아래쪽 화면을 봄.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB22": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "오른손 가로젓기 자세와 긴장된 얼굴 확인.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB23": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "턱을 낮추고 렌즈를 올려다보는 가까운 얼굴, 미소 없음.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB24": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "왼손 손등으로 왼쪽 눈 아래를 훔치는 자세, 좌우 일치.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB25": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지 직접 확인",
+    "revision": "v3",
+    "review_status": "awaiting_user_review",
+    "note": "책상 중앙에서 두 손의 손가락이 깍지 낀 형태 확인. 미소 없이 렌즈를 향하는 얼굴.",
+    "limits": "정지 장면만 확인. 실제 발화·립싱크·퇴장 동작·6초 길이·마지막 빈 방은 영상 생성 후 검수."
+  },
+  "SB26": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "어깨가 낮아지고 눈맞춤 유지, 미소 없음.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB27": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지 직접 확인",
+    "revision": "v3",
+    "review_status": "awaiting_user_review",
+    "note": "같은 깍지 손을 유지한 무표정과 정지 자세. 미소가 나타나기 전 상태 확인.",
+    "limits": "정지 장면만 확인. 실제 발화·립싱크·퇴장 동작·6초 길이·마지막 빈 방은 영상 생성 후 검수."
+  },
+  "SB28": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지를 직접 확인",
+    "note": "이전 컷과 같은 인물. 두 입꼬리의 작은 미소가 분명히 드러남.",
+    "limits": "정지 이미지의 인물·수량·의상·구도·접촉만 확인. 실제 동작·발화·음색은 미검수.",
+    "revision": "v3",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB29": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지 직접 확인",
+    "revision": "v3",
+    "note": "성인 여성 한 명, 청회색 긴팔, 평범한 닫힌 입과 편안한 어깨. 왼쪽 침대·오른쪽 열린 문·중앙 검은 의자 확인.",
+    "limits": "정지 이미지의 인물·수량·표정·의상·방 배치만 확인. 3초 유지·놀라는 동작·순간 교체·웃음 변화·음향은 실제 영상 생성 후 검수 필요.",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB30": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지 직접 확인",
+    "revision": "v3",
+    "note": "SB29와 같은 여성·의상·침실·카메라 구도. 넓어진 눈·벌어진 입·올라간 어깨의 놀란 반응 확인.",
+    "limits": "정지 이미지의 인물·수량·표정·의상·방 배치만 확인. 3초 유지·놀라는 동작·순간 교체·웃음 변화·음향은 실제 영상 생성 후 검수 필요.",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB31": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지 직접 확인",
+    "revision": "v3",
+    "note": "동일한 기존 남성이 여성의 침실 의자에서 렌즈를 보며 웃음. 이 정지 이미지는 고마워 발화 직전 순간으로 재배치함.",
+    "limits": "정지 이미지의 인물·수량·표정·의상·방 배치만 확인. 3초 유지·놀라는 동작·순간 교체·웃음 변화·음향은 실제 영상 생성 후 검수 필요.",
+    "revision_comparison": "새 지문과 정지 장면의 인물·공간·동작 순간 대응을 대조. 대사 교체·호흡·움직임의 속도는 정지 이미지로 검증할 수 없음.",
+    "review_status": "awaiting_user_review"
+  },
+  "SB32": {
+    "status": "visually_checked",
+    "method": "built-in image_gen 반환 이미지 직접 확인",
+    "revision": "v3",
+    "review_status": "awaiting_user_review",
+    "note": "중앙 의자가 비었고 기존 남성 한 명의 뒷모습이 화면 오른쪽 열린 문을 통해 복도로 걸어 나감. 왼쪽 침대와 방 배치 유지.",
+    "limits": "정지 장면만 확인. 실제 발화·립싱크·퇴장 동작·6초 길이·마지막 빈 방은 영상 생성 후 검수."
+  }
+}

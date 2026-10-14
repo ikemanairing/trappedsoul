@@ -1,0 +1,39 @@
+[
+  {
+    "id": "SB04",
+    "path": "storyboard/SB04_C004.png",
+    "refs": [
+      "production/history/revision_v2/storyboard/SB04_C004.png"
+    ],
+    "prompt": "Edit this single landscape photographic storyboard still. Preserve exactly the same man, same face, same charcoal long sleeve shirt, same seated position, same concrete room, door on right, damp mark on left, desk, lens and cold monitor lighting. Change his LEFT hand on his upper chest: instead of an open flat palm, his left fingers curl and tightly clutch a small handful of his own shirt fabric at the upper chest, with visible gathered cloth. The hand is on the screen-right half of his chest. His other right hand stays on the desk. He looks frightened and near tears, inner eyebrows raised, mouth slightly parted mid-speech, lower lip tense, no smile. Natural hand anatomy and realistic cloth grasp. No wound or new prop, no text. Keep the rest unchanged.",
+    "src": "C:\\Users\\NTRING\\.codex\\generated_images\\01a13b43-5e36-7993-b65e-394a49781526\\exec-64b9461b-9ee6-4bee-a1a9-2ae313ed7f77.png"
+  },
+  {
+    "id": "SB25",
+    "path": "storyboard/SB25_C025.png",
+    "refs": [
+      "production/history/revision_v2/storyboard/SB25_C025.png"
+    ],
+    "prompt": "Edit this single landscape photographic storyboard still. Preserve exactly the same man, face, hair, charcoal shirt, concrete room, right door, left damp mark, desk, framing and dim lighting. Change only his hands to loosely INTERLACED fingers resting together at the center of the desk, clearly showing fingers woven between the fingers of the other hand, relaxed rather than squeezed hard. He has just checked the playback area below the webcam and is now raising his gaze toward the lens. Lips lightly parted while softly speaking. His fear is fading but he is still entirely UNSMILING, no upward mouth corners. Do not change the room, camera or outfit. Realistic natural two hands, no extra digits, no text.",
+    "src": "C:\\Users\\NTRING\\.codex\\generated_images\\01a13b43-5e36-7993-b65e-394a49781526\\exec-46a67c09-c349-4eb0-9617-0200528091dc.png"
+  },
+  {
+    "id": "SB27",
+    "path": "storyboard/SB27_C027.png",
+    "refs": [
+      "production/history/revision_v2/storyboard/SB27_C027.png"
+    ],
+    "prompt": "Edit this photographic storyboard frame while preserving exactly the same man, face, hair, charcoal shirt, seated upright posture, concrete room, desk, door and webcam framing. Change ONLY his two hands: they are now loosely interlaced together at the center of the desk with fingers naturally woven together, fully at rest. Keep his expression completely blank, mouth closed, eyebrows and cheeks relaxed, no smile, calm direct webcam eye contact. This is the moment his frightened act suddenly stops, before the later smile. One person, natural two hands, no extra fingers, no text. Landscape 16:9.",
+    "src": "C:\\Users\\NTRING\\.codex\\generated_images\\01a13b43-5e36-7993-b65e-394a49781526\\exec-42aa8ed7-e9b8-475d-bf2e-d607e18b1fae.png"
+  },
+  {
+    "id": "SB32",
+    "path": "storyboard/SB32_C032.png",
+    "refs": [
+      "storyboard/SB31_C031.png",
+      "assets/A01_person.png"
+    ],
+    "prompt": "Create the next independent landscape 16:9 photorealistic storyboard frame in this scene. Image1 is the exact bedroom, fixed webcam camera position, lens, lighting and the man who has just said thank you. Image2 provides the SAME man's identity, short tousled black hair, charcoal long sleeve crewneck and dark trousers. Now he has stood up and walked away from the foreground chair. Show him naturally walking THROUGH THE OPEN WHITE DOOR ON SCREEN RIGHT into the warm amber hallway, seen from behind, with one leg crossing the threshold and the other taking a normal trailing step. His back and head and legs are visible at appropriate smaller scale deeper in the room. He is one normal human adult, not a silhouette effect or giant. The SAME black mesh office chair is now EMPTY at foreground center, same position and size; bed on left, door on right, all plants, dresser, wall art and furniture unchanged. Keep the same static webcam view, no zoom and no pan, no recentered cinematic camera, no extra people and no woman. Warm hallway light grazes his rear shoulder and head. Quiet mundane freedom after a horrifying exchange. No text, no caption, no computer screen visible.",
+    "src": "C:\\Users\\NTRING\\.codex\\generated_images\\01a13b43-5e36-7993-b65e-394a49781526\\exec-aa4e1c77-2ad2-470b-ba3a-310cc6759f09.png"
+  }
+]

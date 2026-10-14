@@ -1,0 +1,211 @@
+{
+  "ok": true,
+  "revision": "v3",
+  "source_dialogue_matches": [
+    "C001",
+    "C002",
+    "C003",
+    "C004",
+    "C005",
+    "C006",
+    "C007",
+    "C008",
+    "C009",
+    "C010",
+    "C011",
+    "C012",
+    "C013",
+    "C014",
+    "C015",
+    "C016",
+    "C017",
+    "C018",
+    "C019",
+    "C020",
+    "C021",
+    "C022",
+    "C023",
+    "C024",
+    "C025",
+    "C026",
+    "C027",
+    "C028",
+    "C029",
+    "C030",
+    "C031"
+  ],
+  "timing_of_original_31_clips_preserved": true,
+  "reveal_at": 170,
+  "duration": 194,
+  "thanks_only_in": "C031",
+  "new_exit_clip": "C032",
+  "changed_images": [
+    "SB04",
+    "SB25",
+    "SB27",
+    "SB32"
+  ],
+  "reused_images": 28,
+  "review_html_script_syntax": "valid",
+  "review_file_links": "valid",
+  "browser_render_check": "not rerun; existing browser policy blocks file URLs",
+  "speech_budget_estimate": [
+    {
+      "clip": "C001",
+      "hangul_syllables": 10,
+      "allocated_seconds": 3.75,
+      "syllables_per_second": 2.67
+    },
+    {
+      "clip": "C002",
+      "hangul_syllables": 13,
+      "allocated_seconds": 4.5,
+      "syllables_per_second": 2.89
+    },
+    {
+      "clip": "C003",
+      "hangul_syllables": 29,
+      "allocated_seconds": 6.5,
+      "syllables_per_second": 4.46
+    },
+    {
+      "clip": "C004",
+      "hangul_syllables": 24,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 4.36
+    },
+    {
+      "clip": "C005",
+      "hangul_syllables": 27,
+      "allocated_seconds": 6.5,
+      "syllables_per_second": 4.15
+    },
+    {
+      "clip": "C006",
+      "hangul_syllables": 25,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 4.55
+    },
+    {
+      "clip": "C008",
+      "hangul_syllables": 23,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 4.18
+    },
+    {
+      "clip": "C009",
+      "hangul_syllables": 27,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 4.91
+    },
+    {
+      "clip": "C010",
+      "hangul_syllables": 23,
+      "allocated_seconds": 6.5,
+      "syllables_per_second": 3.54
+    },
+    {
+      "clip": "C011",
+      "hangul_syllables": 20,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 3.64
+    },
+    {
+      "clip": "C012",
+      "hangul_syllables": 19,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 3.45
+    },
+    {
+      "clip": "C013",
+      "hangul_syllables": 16,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 2.91
+    },
+    {
+      "clip": "C014",
+      "hangul_syllables": 21,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 3.82
+    },
+    {
+      "clip": "C015",
+      "hangul_syllables": 24,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 4.36
+    },
+    {
+      "clip": "C016",
+      "hangul_syllables": 24,
+      "allocated_seconds": 6.5,
+      "syllables_per_second": 3.69
+    },
+    {
+      "clip": "C018",
+      "hangul_syllables": 33,
+      "allocated_seconds": 6.5,
+      "syllables_per_second": 5.08
+    },
+    {
+      "clip": "C019",
+      "hangul_syllables": 20,
+      "allocated_seconds": 6.5,
+      "syllables_per_second": 3.08
+    },
+    {
+      "clip": "C020",
+      "hangul_syllables": 23,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 4.18
+    },
+    {
+      "clip": "C021",
+      "hangul_syllables": 14,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 2.55
+    },
+    {
+      "clip": "C022",
+      "hangul_syllables": 23,
+      "allocated_seconds": 5.5,
+      "syllables_per_second": 4.18
+    },
+    {
+      "clip": "C023",
+      "hangul_syllables": 28,
+      "allocated_seconds": 6.5,
+      "syllables_per_second": 4.31
+    },
+    {
+      "clip": "C024",
+      "hangul_syllables": 30,
+      "allocated_seconds": 6.5,
+      "syllables_per_second": 4.62
+    },
+    {
+      "clip": "C025",
+      "hangul_syllables": 16,
+      "allocated_seconds": 5.2,
+      "syllables_per_second": 3.08
+    },
+    {
+      "clip": "C026",
+      "hangul_syllables": 5,
+      "allocated_seconds": 1.9,
+      "syllables_per_second": 2.63
+    },
+    {
+      "clip": "C028",
+      "hangul_syllables": 26,
+      "allocated_seconds": 7.1,
+      "syllables_per_second": 3.66
+    },
+    {
+      "clip": "C031",
+      "hangul_syllables": 3,
+      "allocated_seconds": 1,
+      "syllables_per_second": 3
+    }
+  ],
+  "limitations": "음절 수/시간은 길이 추정이며 실제 발화·립싱크 검증이 아님."
+}

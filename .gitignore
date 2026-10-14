@@ -1,0 +1,10 @@
+# Generated delivery archives are kept outside GitHub because they exceed normal repository limits.
+*.zip
+
+# Historical snapshots are preserved locally in the production package but are not part of the current source revision.
+production/history/
+
+# Transient generated-image provenance paths and local review screenshots.
+production/*_overview.png
+production/*_ending*.png
+production/review_check.json

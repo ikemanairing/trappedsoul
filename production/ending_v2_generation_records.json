@@ -1,0 +1,31 @@
+[
+  {
+    "prompt": "Create ONE independent landscape 16:9 photographic storyboard frame for a psychological horror film. Image1 is the viewer bedroom and must dictate the exact camera position, lens, furniture, open white door on right with amber hallway, bed on left, plants and black mesh office chair centered. Image2 is the identity and clothing reference for the only person: the adult Korean woman with shoulder-length dark hair and muted dusty blue long-sleeve shirt. Place this woman naturally in that black mesh chair, centered, framed head and upper body. She is quietly watching the monitor just below webcam, neutral relaxed face, lips closed with no smile and no fear, shoulders relaxed, arms low outside bottom of frame. Camera is fixed on top of the unseen monitor, looking at her and her bedroom; no monitor, screen frame or UI visible. Keep the original bedroom perspective and furniture exactly. Cool dim monitor light on her face from camera, warm amber doorway, realistic low-light webcam grain. Face visible, modest ordinary everyday appearance. No other people, no horror transformation, no text, no collage. This is the normal three-second viewer beat BEFORE she becomes startled.",
+    "refs": [
+      "assets/B02_viewer_room.png",
+      "assets/A02_female_viewer.png"
+    ],
+    "src": "C:\\Users\\NTRING\\.codex\\generated_images\\01a13b43-5e36-7993-b65e-394a49781526\\exec-a622eb20-a089-481b-8758-ec280105493c.png",
+    "id": "SB29",
+    "path": "storyboard/SB29_C029.png"
+  },
+  {
+    "id": "SB30",
+    "refs": [
+      "storyboard/SB29_C029.png"
+    ],
+    "prompt": "Edit this photographic storyboard image into the next moment in the same fixed webcam scene. Preserve the exact same adult woman identity, dusty blue long-sleeve shirt, hair, chair, bedroom composition, focal length, light and all furniture unchanged. Change ONLY her facial expression and body response: she suddenly sees something alarming on the monitor right under the lens. Her eyes are wide, eyebrows raised, mouth visibly parted in a short sharp startled gasp, shoulders lifted and upper body recoils slightly against the mesh chair. Clearly startled, not smiling and not speaking. Her gaze is still toward the monitor near camera. Natural realistic fear, not screaming caricature. Keep only one person, same central chair and same size in frame, no creature, no second person, no supernatural effects. Landscape 16:9, low-light webcam photographic realism, no captions.",
+    "src": "C:\\Users\\NTRING\\.codex\\generated_images\\01a13b43-5e36-7993-b65e-394a49781526\\exec-db05f15a-5009-4316-8f56-d081baf712cf.png",
+    "path": "storyboard/SB30_C030.png"
+  },
+  {
+    "id": "SB31",
+    "refs": [
+      "storyboard/SB29_C029.png",
+      "assets/A01_person.png"
+    ],
+    "prompt": "Edit the first reference scene into the final reveal of this psychological horror. Reference1 defines the EXACT bedroom, camera, lens, crop, chair position and lighting. COMPLETELY REMOVE the woman. Replace her in that same central black mesh office chair with ONLY the adult man from Reference2. Reference2 defines his exact identity, short messy black hair, facial structure and charcoal long sleeve crewneck. He is the original male protagonist now occupying the woman's place in HER ordinary bedroom. Same medium upper-body webcam view, natural seated body size similar to the woman, relaxed shoulders, arms low. His eyes look directly INTO the webcam lens and he gives an unmistakable sly grin: both mouth corners raised, one slightly higher, cheeks subtly lifted, calm confident gaze, lips closed. Chilling satisfaction, no monstrous distortion. Use cool monitor light on his face matching reference1. Preserve every background item precisely: bed screen left, open white door and amber hallway screen right, furniture and plants. No woman remains anywhere, no overlay, no morph halfway face, no extra person, no concrete trapped room, no text. One landscape 16:9 photographic storyboard frame.",
+    "src": "C:\\Users\\NTRING\\.codex\\generated_images\\01a13b43-5e36-7993-b65e-394a49781526\\exec-c7e21f7d-e71d-4a24-a9d8-6e2760f2c13c.png",
+    "path": "storyboard/SB31_C031.png"
+  }
+]
